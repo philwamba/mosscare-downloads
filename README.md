@@ -8,9 +8,9 @@ MossCare brings everyday self-care and access to professional support into one w
 
 ## Download
 
-**Current version: 0.1.1 (build 2) · Early Access**
+**Current version: 0.1.2 (build 3) · Early Access**
 
-**[Download MossCare for Android](https://github.com/philwamba/mosscare-downloads/releases/download/v0.1.1-build.2/mosscare-v0.1.1-build.2.apk)**
+**[Download MossCare for Android](https://github.com/philwamba/mosscare-downloads/releases/download/v0.1.2-build.3/mosscare-v0.1.2-build.3.apk)**
 
 [Release notes and all versions](https://github.com/philwamba/mosscare-downloads/releases)
 

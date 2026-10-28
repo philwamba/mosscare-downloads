@@ -25,3 +25,7 @@ Future versions will be available here. Install updates over your existing MossC
 Each release includes the APK, a checksum file to help verify your download, and release details. App files are kept in [Releases](https://github.com/philwamba/mosscare-downloads/releases).
 
 [Explore the MossCare project](https://github.com/philwamba/mosscare)
+
+---
+
+© 2026 MossCare. All rights reserved.
